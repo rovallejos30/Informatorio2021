@@ -1,0 +1,4 @@
+Dario,Ramen,14-09-1990,80000
+Miriam,Anaez,01-06-1996,120000
+Emmanuel,Baez,26-02-1984,76000
+Anahi,Saez,10-07-1987,70000
